@@ -3,7 +3,7 @@ C++ Code for paper Iterative-Saliency-via-Dynamic-Image-Region-Partitioning.
 
 
 # Download
-[Iterative-Saliency-via-Dynamic-Image-Region-Partitioning](https://github.com/168WenFangjun/Iterative-Saliency-via-Dynamic-Image-Region-Partitioning/Iterative Saliency via Dynamic Image Region Partitioning.pdf)
+[Iterative-Saliency-via-Dynamic-Image-Region-Partitioning](https://github.com/168WenFangjun/Iterative-Saliency-via-Dynamic-Image-Region-Partitioning/blob/master/Iterative Saliency via Dynamic Image Region Partitioning.pdf)
 
 
 # Iterative-Saliency-via-Dynamic-Image-Region-Partitioning
