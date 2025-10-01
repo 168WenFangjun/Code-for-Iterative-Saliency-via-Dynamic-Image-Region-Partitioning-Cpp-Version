@@ -1,6 +1,19 @@
 # code-for-my-graduate-paper-cpp-version
 C++ Code for paper Iterative-Saliency-via-Dynamic-Image-Region-Partitioning. 
 
+# Iterative-Saliency-via-Dynamic-Image-Region-Partitioning
+![image](https://github.com/168WenFangjun/Iterative-Saliency-via-Dynamic-Image-Region-Partitioning/blob/master/code-for-my-graduate-paper/test/3_95_95850.jpg)
+![image](https://github.com/168WenFangjun/Iterative-Saliency-via-Dynamic-Image-Region-Partitioning/blob/master/code-for-my-graduate-paper/saliencymap/3_95_95850.png)
+
+
+# Introduction 
+
+Vison Old, Vision New. 
+
+After reading this paper , you will get new insights of computer vision. 
+
+For more detail information, please contact with me via gmail [168fangjunwen@gmail.com].
+
 # ISDIP C++ Implementation
 
 C++版本的ISDIP（Image Saliency Detection using Iterative Scanning and Directional Propagation）算法实现。
